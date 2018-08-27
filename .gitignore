@@ -1,0 +1,97 @@
+*~
+*.pyc
+*.pyo
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# C extensions
+*.so
+
+# Mac-specific directory file
+.DS_Store
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
+
+*.iml
+
+## Directory-based project format:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# User-specific stuff:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
+
+# Sensitive or high-churn files:
+# .idea/dataSources.ids
+# .idea/dataSources.xml
+# .idea/sqlDataSources.xml
+# .idea/dynamic.xml
+# .idea/uiDesigner.xml
+
+# Gradle:
+# .idea/gradle.xml
+# .idea/libraries
+
+# Mongo Explorer plugin:
+# .idea/mongoSettings.xml
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# generated on install
+ChannelWorm.egg-info/
+tests/.ipynb_checkpoints
+tests/*.dat
+tests/*.xml
+tests/SCU*.py
+
+# some lingering egg files
+dist/*.egg
+
+# ignore build/ directory
+build/
+
+tests/scidash/.ipynb_checkpoints
+tests/scidash/*.dat
+tests/scidash/scidash.ipynb
+
+# Other
+channelworm/fitter/examples/.ipynb_checkpoints/*.*
+channelworm/fitter/examples/*.dat
+channelworm/fitter/examples/*.xml
+channelworm/fitter/examples/*.png
+*.pickle
+
+# LaTeX Files
+*.aux
+*.synctex.gz
