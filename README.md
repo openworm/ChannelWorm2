@@ -25,7 +25,6 @@ There are currently no installation scripts.  Simply clone the repository to beg
 * parameter_fitting/- genetic algorithms for extracting parameters for Hodgkin-Huxley type ion channel models.
 * raw_data/- spreadsheets with curated data about ion channels, relevant plots from publications, and digitized time series to be used for parameter extraction.
 * NML2_models/- NeuroML2 files generated from the parameter fitting process.
-* tutorials_etc/- learning resources for ion channel modeling.  
 
 ## Release Notes
 * _8/27/2018_: Major restructuring of repository. Previous version of ChannelWorm been archived. See associated issues and milestones for tasks related to incorporating this work into the current setup. New structure is organized around the raw data exported from [Chopen](chopen.herokuapp.com).  
