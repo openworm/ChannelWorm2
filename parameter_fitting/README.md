@@ -1,4 +1,5 @@
 ## Tools for extracting kinetic parameters for Hodgkin-Huxley type ion channel models
 
 ## Contents
-* fitter/- scripts from the old ChannelWorm repository (see legacy/ChannelWorm/channelworm/fitter).  We are currently in the process of re-factoring and documenting this implementation.  See the [Parameter Fitting](https://github.com/openworm/ChannelWorm2/milestone/2) milestone for relevant tasks.  
+* basic_fitter/- straightforward implementation of genetic algorithms for determining ion channel kinetic parameters
+from experimental data. See the [Parameter Fitting](https://github.com/openworm/ChannelWorm2/milestone/2) milestone for relevant tasks.  

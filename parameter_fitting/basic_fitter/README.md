@@ -7,7 +7,7 @@ Modelling Using Whole-Cell Voltage-Clamp
 Recordings and a Genetic Algorithm"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030169).
 
 I currently have implementations in both the Wolfram Language and Python. These are mostly
-intended to be used for learning the essentials of the techniques and not for out-of-the-box use.  
+intended to be used for learning the essentials of the techniques. The immediate goal is to use the existing frameworks of either Inspyred/Neurotune or DEAP/BluePyOpt for our channel modeling pipeline.  See the associated [issue](https://github.com/openworm/ChannelWorm2/issues/15). 
 
 ## Contents:
 
