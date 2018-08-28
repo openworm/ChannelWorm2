@@ -62,3 +62,32 @@ _Last modified: 8/2018_
 | APLSP | Aplysia sp. (Sea hare) | 1 | Shab_APLSP |
 | PANIN | Panulirus interruptus (California spiny lobster) | 3 | Shaker-II_PANIN, Shaker-I_PANIN, Shal1_PANIN |
 | SCHMA | Schistosoma mansoni (blood fluke) | 1 | Shaker_SCHMA |
+
+### Channels Without Plots
+_Last modified: 8/2018_
+
+| Species Name |
+| ---- |
+| CNGK_DANRE |
+| KCNH6_RAT |
+
+### Channels Without *Digitzed* Plots
+_Last modified: 8/2018_
+
+| Species Name |
+| ---- |
+| KCMA1-hbr1_HUMAN_144 |
+| KCMA1-hbr3_HUMAN_145 |
+| KCNB1_HUMAN_54 |
+| KCNC1_HUMAN_63 |
+| KCNN1-2_HUMAN_152 |
+| KCNN2_RAT_153 |
+| KCNN4_HUMAN_154 |
+| KCNQ1_SQUAC_89 |
+| Shaker_SCHMA_27 |
+| SLAC1_ARATH_200 |
+| SLAH3_ARATH_201 |
+| SLO-1a_CAEEL_142 |
+| SLO-2b_CAEEL_147 |
+| SLO-2c_CAEEL_148 |
+| SLO-K_DROME_143 |
