@@ -26,5 +26,7 @@ There are currently no installation scripts.  Simply clone the repository to beg
 * raw_data/- spreadsheets with curated data about ion channels, relevant plots from publications, and digitized time series to be used for parameter extraction.
 * NML2_models/- NeuroML2 files generated from the parameter fitting process.
 
-## Release Notes
+## News & Release Notes
+* _8/28/2018_: All plots and JSON files from [Chopen](chopen.herokuapp.com) are now in raw_data.
+
 * _8/27/2018_: Major restructuring of repository. Previous version of ChannelWorm been archived. See associated issues and milestones for tasks related to incorporating this work into the current setup. New structure is organized around the raw data exported from [Chopen](chopen.herokuapp.com).  
