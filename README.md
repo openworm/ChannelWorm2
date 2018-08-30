@@ -1,6 +1,7 @@
 # ChannelWorm2
 
-<img width="1201" alt="cw_in_overview" src="https://user-images.githubusercontent.com/1573896/44875122-42620b80-ac6b-11e8-82a3-297c079911c0.png">
+![cw_in_overview](https://user-images.githubusercontent.com/1573896/44875242-9c62d100-ac6b-11e8-813e-0d4c2da170c6.png)
+
 
 The aim of **ChannelWorm2** is to build
 quantitative models of ion channel behavior in _C. elegans_ neurons.  The resulting models are exported to [**PyOpenWorm**](https://github.com/openworm/pyopenworm), OpenWorm's data access layer for storing both static physiological information as well as dynamic models about the nematode.  Ultimately, these models are used by [**c302**](https://github.com/openworm/c302) for simulating nervous system dynamics.  
