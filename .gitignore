@@ -95,3 +95,5 @@ channelworm/fitter/examples/*.png
 # LaTeX Files
 *.aux
 *.synctex.gz
+/NML2_models/*.dat
+/NML2_models/LEMS_Test_*.xml
