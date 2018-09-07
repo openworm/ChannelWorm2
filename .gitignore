@@ -97,3 +97,4 @@ channelworm/fitter/examples/*.png
 *.synctex.gz
 /NML2_models/*.dat
 /NML2_models/LEMS_Test_*.xml
+/NML2_models/notebooks/.ipynb_checkpoints
