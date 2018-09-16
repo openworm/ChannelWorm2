@@ -86,6 +86,7 @@ tests/scidash/*.dat
 tests/scidash/scidash.ipynb
 
 # Other
+.ipynb_checkpoints
 channelworm/fitter/examples/.ipynb_checkpoints/*.*
 channelworm/fitter/examples/*.dat
 channelworm/fitter/examples/*.xml
